@@ -1,6 +1,6 @@
 /*
 Binary Search Algorithm.
-Implemented Khurshed Shoeb.
+Implemented b@dbear.
 */
 #include<iostream>
 using namespace std;
